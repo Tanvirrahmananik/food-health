@@ -65,10 +65,7 @@ body{
     box-shadow: rgb(66, 38, 38) 5px 5px 5px 5px;
     text-indent: 5cm;
 }
-.footer{
-    text-align: center;
-    background: rgb(41, 43, 40);
-}
+
 #healthytips{
     color: chartreuse;
     text-align: center;
@@ -96,4 +93,8 @@ background-repeat:no-repeat;
     color: rgb(95, 151, 11);
     font-size: xx-large;
     box-shadow: 5px 0px 5px greenyellow;
+}
+.footer{
+    text-align: center;
+    background: rgb(41, 43, 40);
 }
