@@ -64,6 +64,10 @@ body{
 }
 #healthytips{
     color: chartreuse;
+    text-align: center;
+    font-size: 2cm;
+    box-shadow: 5px 5px 5px;
+    
 }
 .tips{
 width: 40%;
