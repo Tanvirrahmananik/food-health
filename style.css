@@ -48,7 +48,7 @@ body{
     box-shadow: rgb(66, 38, 38) 5px 5px 5px;
     border-radius: 3%;
     border :.1cm;
-    padding-left: 5px;
+    padding-left: 15px;
 }
 .textedit{
     display: flex;
