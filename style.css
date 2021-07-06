@@ -1,0 +1,62 @@
+body{
+    font-family: 'Otomanopee One', sans-serif;
+}
+   
+.diet{
+    display: flex;
+    margin: 100px;
+    background-image: url(new.jpg);
+    background-size: 100%;
+}
+.colorword{
+    color: rgb(91, 189, 52);
+}
+.wordcolor{
+    color: orange;
+}
+.linkbutton{
+    text-decoration: none;
+    background-image: linear-gradient(rgba(241, 50, 50, 0.925), rgb(250, 250, 40));
+    padding: 10px 40px;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 5px 5px 5px;
+    
+}
+.aboutme{
+    display: flex;
+    background-image: url(d0427bf0fa38cf5d3151c68825bea9d5Copy.jpg);
+    text-align: left;
+    font-size: x-large;
+}
+.recipie{
+    text-align: center;
+    padding: 10% 10% 10% ;
+}
+.items{
+    display: flex;
+
+}
+.food{
+    text-align: left;
+    width: 400px;
+    height: 500px;
+    margin: .3cm .3cm .3cm;
+    background: rgb(235, 236, 240) ;
+    box-shadow: rgb(66, 38, 38) 5px 5px 5px;
+    border-radius: 3%;
+    border :.1cm;
+    padding-left: 5px;
+}
+.textedit{
+    display: flex;
+    background-color: cornsilk;
+    margin: 2cm 1cm 1cm;
+    text-align: left;
+    box-shadow: rgb(66, 38, 38) 5px 5px 5px 5px;
+    text-indent: 5cm;
+}
+.footer{
+    text-align: center;
+    background: rgb(41, 43, 40);
+}
