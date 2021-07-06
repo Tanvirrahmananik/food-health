@@ -10,6 +10,7 @@ body{
 }
 .colorword{
     color: rgb(91, 189, 52);
+    padding: 10px;
 }
 .wordcolor{
     color: orange;
