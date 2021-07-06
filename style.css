@@ -62,3 +62,18 @@ body{
     text-align: center;
     background: rgb(41, 43, 40);
 }
+#healthytips{
+    color: chartreuse;
+}
+.tips{
+width: 40%;
+margin: 70px;
+padding: 35px;
+box-shadow:10px 10px 10px;
+border-left: 10px solid;
+border-radius: 5px;
+border-image: linear-gradient(blue, orange);
+border-image-slice: 1;
+background-image: url(d94ca42b59cebcc2cbff8135b2a5e98d.jpg);
+background-repeat:no-repeat;
+}
