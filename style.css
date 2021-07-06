@@ -7,6 +7,7 @@ body{
     margin: 100px;
     background-image: url(new.jpg);
     background-size: 100%;
+    padding: 10px;
 }
 .colorword{
     color: rgb(91, 189, 52);
