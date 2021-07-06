@@ -40,16 +40,23 @@ body{
 
 }
 .food{
-    text-align: left;
-    width: 400px;
-    height: 500px;
-    margin: .3cm .3cm .3cm;
-    background: rgb(235, 236, 240) ;
-    box-shadow: rgb(66, 38, 38) 5px 5px 5px;
-    border-radius: 3%;
-    border :.1cm;
-    padding-left: 15px;
+   margin: 10px;
+   padding: 20px;
+   border-radius: 20px;
+   box-shadow: 5px 10px 40px gray ;
+   
 }
+.food img{
+    height: 60%;
+    width: 100%;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px gray;
+}
+.food h1{
+    color: greenyellow;
+    font-size: xx-large;
+}
+
 .textedit{
     display: flex;
     background-color: cornsilk;
@@ -80,4 +87,13 @@ border-image: linear-gradient(blue, orange);
 border-image-slice: 1;
 background-image: url(d94ca42b59cebcc2cbff8135b2a5e98d.jpg);
 background-repeat:no-repeat;
+}
+.login div{
+    text-align: justify;
+}
+#moral{
+    text-align: center;
+    color: rgb(95, 151, 11);
+    font-size: xx-large;
+    box-shadow: 5px 0px 5px greenyellow;
 }
